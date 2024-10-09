@@ -20,5 +20,5 @@ To mint tokens, use the dropdown beside the mint button. In the "Deploy & Run Tr
 
 To burn tokens, input the address and the number of tokens you wish to burn. Make sure the value you want to burn doesn't exceed the current balance, or the transaction will fail.
 
-## Authors
+## Author
 Ana Mary Colin A. Rasonable
